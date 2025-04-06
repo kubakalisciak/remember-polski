@@ -153,5 +153,5 @@ Polski
 Czy chcesz przełączyć się na Polski?
 Tak!
 Nie
-przetłmaczone przez <a href="https://github.com/kubakalisicak">kubakalisciak</a>
+przetłmaczone przez <a href="https://github.com/kubakalisciak">kubakalisciak</a>
 <a href="https://ncase.me/remember">oryginał</a> po angielsku
